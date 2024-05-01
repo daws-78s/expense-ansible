@@ -1,2 +1,8 @@
 [db]
 db.daws78s.online
+
+[backend]
+backend.daws78s.online
+
+[frontend]
+daws78s.online
